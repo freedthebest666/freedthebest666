@@ -8,6 +8,7 @@ I have a fascination for understanding how things work, whether it's software or
 - **C++ Programming**: Building applications and solving complex problems.
 - **Cybersecurity**: Exploring vulnerabilities and improving security practices.
 
+## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=freedthebest666&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
 
 <!--
