@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=freedthebest666&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=freedthebest666&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **freedthebest666/freedthebest666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
