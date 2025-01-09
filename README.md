@@ -9,7 +9,7 @@ I have a fascination for understanding how things work, whether it's software or
 - **Cybersecurity**: Exploring vulnerabilities and improving security practices.
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=freedthebest666&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freedthebest666&theme=dark&show_icons=true&hide_border=true&count_private=true)](https://github-stats.omsimos.com/)
 
 <!--
 **freedthebest666/freedthebest666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
